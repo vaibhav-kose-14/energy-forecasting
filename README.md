@@ -22,3 +22,6 @@ A end-to-end data analytics and deep learning project to forecast hourly energy 
 
 ## Dataset
 Hourly Energy Consumption by Rob Mulla (Kaggle)
+
+## Dashboard
+![Energy Forecasting Dashboard](dashboard.png)
