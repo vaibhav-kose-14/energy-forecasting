@@ -1,0 +1,10 @@
+data/
+venv/
+venv312/
+*.pth
+*.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+files.zip
+hourly energy consumption/
